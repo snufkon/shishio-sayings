@@ -1,0 +1,6 @@
+{:name "shishio-sayings"
+ :version "0.0.1"
+ :author "snufkon"
+ :source "https://github.com/snufkon/shishio-sayings"
+ :desc "Replace user input words to Shishio Makoto sayings"
+ :behaviors "shishio_sayings.behaviors"}
